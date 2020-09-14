@@ -3,7 +3,7 @@
 </div>
 
 # w3css
-W3.CSS - CSS Framework.
+W3.CSS - CSS Framework kept updated by me from official sources.
 
 My w3css working version. Update to v. 4.13 June 2019 from w3schools.com
 
