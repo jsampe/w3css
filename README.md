@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png"  width="auto" height="auto">
+  <img src="logo.svg"  width="auto" height="auto">
 </div>
 
 # w3css
